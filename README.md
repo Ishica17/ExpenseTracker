@@ -19,32 +19,6 @@ The **Expense Tracker** is a web application designed to help users manage and t
 - **Database**: SQL Server
 - **Server**: Apache Tomcat
 
-## Project Structure
-
-ExpenseTrackerWeb/
-│
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com/
-│ │ │ │ └── example/
-│ │ │ │ └── servlet/
-│ │ │ │ └── ExpenseServlet.java
-│ │ ├── resources/
-│ │ └── webapp/
-│ │ ├── WEB-INF/
-│ │ │ ├── web.xml
-│ │ ├── css/
-│ │ │ └── styles.css
-│ │ ├── js/
-│ │ │ └── scripts.js
-│ │ └── index.html
-│ └── test/
-│ └── java/
-├── .gitignore
-├── pom.xml
-└── README.md
-
 
 ## Getting Started
 
